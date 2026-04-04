@@ -20,7 +20,7 @@ del monster  # 明示的に削除
 
 # スコープを抜けるときも呼ばれる
 def battle():
-    boss = Monster("ドラゴン")
+    # boss = Monster("ドラゴン")
     # ドラゴンが出現!
     print("戦闘中...")
 
